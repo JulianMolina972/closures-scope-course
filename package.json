@@ -1,0 +1,20 @@
+{
+  "name": "closures-scope-course",
+  "version": "1.0.0",
+  "description": "Closures and scope course in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianMolina972/closures-scope-course.git"
+  },
+  "keywords": [],
+  "author": "Julian Molina <juliandavidmv@ufps.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulianMolina972/closures-scope-course/issues"
+  },
+  "homepage": "https://github.com/JulianMolina972/closures-scope-course#readme"
+}
